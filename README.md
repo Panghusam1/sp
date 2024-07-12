@@ -66,8 +66,4 @@
 Install-Package Microsoft.WindowsAppSDK
 Install-Package System.Drawing.Common
 
-### 克隆仓库
 
-```bash
-git clone https://github.com/yourusername/screen-capture-event-logger.git
-cd screen-capture-event-logger
