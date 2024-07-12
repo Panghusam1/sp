@@ -16,6 +16,7 @@
 └── GlobalHookHelper.cs
 
 
+
 ### 文件说明
 
 - `App.xaml`：定义应用程序的资源和启动配置。
@@ -50,7 +51,20 @@
 确保已经安装以下组件：
 - .NET 6 SDK
 - Visual Studio 2022 及以上版本
+- Windows 10 SDK
 - Windows 10 或更高版本
+
+### NuGet 包
+
+请确保安装以下 NuGet 包：
+- `Microsoft.WindowsAppSDK`
+- `System.Drawing.Common`
+
+可以通过 NuGet 包管理器控制台或 Visual Studio 的 NuGet 包管理器界面安装这些包：
+
+```bash
+Install-Package Microsoft.WindowsAppSDK
+Install-Package System.Drawing.Common
 
 ### 克隆仓库
 
