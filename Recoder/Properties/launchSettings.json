@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Recoder (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Recoder (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
