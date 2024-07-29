@@ -247,3 +247,4 @@ C:\Users\Administrator\source\repos\Recoder\Recoder\obj\x86\Debug\net8.0-windows
 C:\Users\Administrator\source\repos\Recoder\Recoder\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\Microsoft.Win32.SystemEvents.dll
 C:\Users\Administrator\source\repos\Recoder\Recoder\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\System.Drawing.Common.dll
 C:\Users\Administrator\source\repos\Recoder\Recoder\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\System.Windows.Extensions.dll
+C:\Users\Administrator\source\repos\Recoder\Recoder\obj\x86\Debug\net8.0-windows10.0.19041.0\win-x86\Recoder.sourcelink.json

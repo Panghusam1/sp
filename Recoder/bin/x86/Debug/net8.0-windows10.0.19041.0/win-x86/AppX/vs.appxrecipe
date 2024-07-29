@@ -29,29 +29,29 @@
     <AppXManifest Include="C:\Users\Administrator\source\repos\Recoder\Recoder\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-07-29T07:53:51.808</Modified>
+      <Modified>2024-07-29T11:11:26.021</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Recoder\Recoder\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-07-29T07:36:27.754</Modified>
+      <Modified>2024-07-29T11:11:25.876</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Recoder\Recoder\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\Recoder.runtimeconfig.json">
       <PackagePath>Recoder.runtimeconfig.json</PackagePath>
-      <Modified>2024-07-29T07:36:27.732</Modified>
+      <Modified>2024-07-29T11:11:25.775</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Recoder\Recoder\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\Recoder.dll">
       <PackagePath>Recoder.dll</PackagePath>
-      <Modified>2024-07-29T07:53:51.687</Modified>
+      <Modified>2024-07-29T11:11:25.380</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Recoder\Recoder\obj\x86\Debug\net8.0-windows10.0.19041.0\win-x86\apphost.exe">
       <PackagePath>Recoder.exe</PackagePath>
-      <Modified>2024-07-29T07:53:51.689</Modified>
+      <Modified>2024-07-29T11:11:25.389</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Recoder\Recoder\bin\x86\Debug\net8.0-windows10.0.19041.0\win-x86\Recoder.deps.json">
       <PackagePath>Recoder.deps.json</PackagePath>
-      <Modified>2024-07-29T07:36:27.731</Modified>
+      <Modified>2024-07-29T11:11:25.690</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.netcore.app.runtime.win-x86\8.0.7\runtimes\win-x86\lib\net8.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -867,31 +867,31 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Recoder\Recoder\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2024-07-23T00:16:58.764</Modified>
+      <Modified>2024-07-29T10:53:05.269</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Recoder\Recoder\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-07-23T00:16:58.764</Modified>
+      <Modified>2024-07-29T10:53:05.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Recoder\Recoder\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-      <Modified>2024-07-23T00:16:58.764</Modified>
+      <Modified>2024-07-29T10:53:05.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Recoder\Recoder\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <Modified>2024-07-23T00:16:58.764</Modified>
+      <Modified>2024-07-29T10:53:05.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Recoder\Recoder\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <Modified>2024-07-23T00:16:58.765</Modified>
+      <Modified>2024-07-29T10:53:05.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Recoder\Recoder\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <Modified>2024-07-23T00:16:58.765</Modified>
+      <Modified>2024-07-29T10:53:05.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\Recoder\Recoder\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
-      <Modified>2024-07-23T00:16:58.765</Modified>
+      <Modified>2024-07-29T10:53:05.270</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

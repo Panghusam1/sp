@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Recoder\\GlobalHookHelper.cs",
               "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Recoder\\Recoder\\GlobalHookHelper.cs",
               "RelativeToolTip": "Recoder\\GlobalHookHelper.cs",
-              "ViewState": "AQIAAHgAAAAAAAAAAAAowIkAAAAJAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvzoAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T04:58:32.819Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "Recoder\\ScreenCaptureHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T00:42:18.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T00:42:18.794Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Recoder\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T00:41:13.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T00:41:13.493Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Recoder\\MainWindow.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-29T00:37:58.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T00:37:58.56Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "Recoder\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T00:31:03.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T00:31:03.5Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "Recoder\\App.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-29T00:19:16.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T00:19:16.74Z"
             }
           ]
         }
